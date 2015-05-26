@@ -1,0 +1,15 @@
+git config --list
+git config --global user.name ""
+git config --global user.email ""
+
+git config --global credential.helper wincred
+
+git init
+git status
+git add .
+git commit -m "Adds/Updates/Re-factors"
+git log
+git show "check sum"
+
+[Add+Commit]
+git commit -a -m "Adds comments"
