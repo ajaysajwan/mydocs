@@ -1,5 +1,5 @@
 This is a guide for initial setup of Git Repo
-
+List of commsnds-
 git config --list
 git config --global user.name ""
 git config --global user.email ""
