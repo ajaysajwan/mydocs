@@ -20,5 +20,18 @@ Snapshots, Not Differences
 Nearly Every Operation Is Local
 Git Has Integrity - Everything in Git is check-summed before it is stored and is then referred to by that checksum
 
+The mechanism that Git uses for this checksumming is called a SHA-1 hash
+This is a 40-character string composed of hexadecimal characters (0–9 and a–f) and calculated based on the contents of a file or directory structure in Git
+looks something like this 24b9da6552252987aa493b52f8696cd6d3b00373
+
+Git has three main states that your files can reside in: 
+committed - means that the data is safely stored in your local database
+modified - means that you have changed the file but have not committed it to your database yet
+staged - means that you have marked a modified file in its current version to go into your next commit snapshot
+
+The Command Line and GUI Tools
+Command Line provides support for all tthe commandds while most of the GUI toools do Not
+
+End of File
 </body>
 </HTML>
