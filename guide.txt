@@ -16,3 +16,4 @@ git show "check sum"
 
 [Add+Commit]
 git commit -a -m "Adds comments"
+git push -u origin master
