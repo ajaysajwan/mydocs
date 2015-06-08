@@ -1,3 +1,5 @@
+http://gitref.org/remotes/
+
 git init
 git status
 git add .
