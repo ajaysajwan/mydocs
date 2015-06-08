@@ -1,0 +1,95 @@
+git init
+git status
+git add .
+git commit -m "Comment"
+git status -s
+git commit -a -m "Adds new message"
+
+-a should be first, so that it can add the file to staging first. And then use -m to commit to repo
+
+condole.log('test')
+
+git gui
+
+All the unstaged file will be shown on the Unstaged Changes window.
+
+. Click on the icon of the file to add it to the staging environment.
+
+. Commit only single file
+
+. git checkout "filename"
+- to undo changes from working directory
+- to switch branch
+
+git checkout -- Filename
+
+use wildcard characters
+
+git checkout -- *.txt
+
+.gitrep ???????
+
+commit eb715ce22787c101bf0b6a6278acdb9a2a6b09bd
+Author: unknown <trng6@CT2-TRNG6-25.cybage.com>
+Date:   Mon Jun 8 12:26:54 2015 +0530
+
+    Adds new directories
+
+commit 368e759cbcc95cbba94623c274c7ac78bcce7535
+Author: unknown <trng6@CT2-TRNG6-25.cybage.com>
+Date:   Mon Jun 8 12:22:23 2015 +0530
+
+    adding more files
+
+commit ee228ba8aa2f1bbd2da322f45b0a4ddeb44c8016
+Author: unknown <trng6@CT2-TRNG6-25.cybage.com>
+Date:   Mon Jun 8 12:15:48 2015 +0530
+
+    more new commends
+
+commit f09930037db68728e9c274ff756ec65ec2f52590
+Author: unknown <trng6@CT2-TRNG6-25.cybage.com>
+Date:   Mon Jun 8 12:12:32 2015 +0530
+
+if you rollback the last one, GIT will rollback all the other commits after that as well.
+this is because it maintains the data integrity
+
+
+git reset HEAD
+- This will rollback everythying to the working directory
+- There are other commands to rollback as well
+
+git commit amend - URL
+https://www.atlassian.com/git/tutorials/rewriting-history/git-commit--amend
+
+git commit --amend --no-edit
+git commit --amend -m "Comment"
+
+git show CHECKSUM
+
+12d50f86c7162a68e410915de35e1511d2329ea8
+
+git log -n 3
+will show only last 3 commits
+
+git reset --hard HEAD^ - To rollback the last commit
+git reset --hard HEAD~5 - To remove all last 5 commits
+git revert checksum ?????? Advanced Session
+
+git log > backup.txt
+
+cat filename - To show the file
+
+git reset --soft HEAD^
+
+
+git clean -f
+Will remove any untracked file from.
+-f used to forcefully clean
+
+Rename file -
+git mv file1.txt file2.txt
+
+Remove the file -
+git rm backup.txt
+
