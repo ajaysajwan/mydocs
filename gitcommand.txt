@@ -82,6 +82,7 @@ will show only last 3 commits
 
 git reset --hard HEAD^ - To rollback the last commit
 git reset --hard HEAD~5 - To remove all last 5 commits
+
 git revert checksum ?????? Advanced Session
 
 git log > backup.txt

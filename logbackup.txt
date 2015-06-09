@@ -1,0 +1,113 @@
+commit f8485b03f46092607d372d37956225dd960eb3cf
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue Jun 9 09:12:55 2015 +0530
+
+    Adding new folder
+
+commit 62cb09fb86f0517d37463bd306933239fd113e86
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue Jun 9 09:10:44 2015 +0530
+
+    Adding Queries file
+
+commit b84639c9929096be6bd2ef3454ed9830a35fe69e
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue Jun 9 09:05:59 2015 +0530
+
+    getting deleted file
+
+commit b52617f6c18fa097f83bc14bb5f792e393f9ddde
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue Jun 9 08:47:53 2015 +0530
+
+    Day 2 Commit
+
+commit bdf786d002657c128f849cf37be6719742051704
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue Jun 9 01:19:21 2015 +0530
+
+    added test file
+
+commit f431cd9273fdaa3f2b5b7f74a2328ae5a52850e4
+Author: ajay.sajwan <ajay.sajwan@gmail.com>
+Date:   Mon Jun 8 13:17:00 2015 +0530
+
+    Added Links for GIT Refs
+
+commit 20509b01dd97787aa6048af7f927f7ea85508f69
+Author: ajay.sajwan <ajay.sajwan@gmail.com>
+Date:   Mon Jun 8 13:12:12 2015 +0530
+
+    Added New file with latest git commands
+
+commit 1da4b7f51e8d2d08e6a4a73c4b9b255203644a3f
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Sun Jun 7 19:19:53 2015 +0530
+
+    adds new JS reference file
+
+commit b32655bf4a2694fb46a45690c287eabcb16219a4
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Wed Jun 3 23:21:56 2015 +0530
+
+    Updates the html file with some foratting
+
+commit 0b139ea388266af3a5542f6aca3e7cd59a1c1479
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue Jun 2 08:41:58 2015 +0530
+
+    Adds New command
+
+commit 5ac5b09e040cc895edb3db26c8b2e88f5aafb2d4
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue Jun 2 08:17:16 2015 +0530
+
+    deletes unwanted files
+
+commit c000f4f262b8527d67af3b8f38083505e55668bc
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Thu May 28 08:55:09 2015 +0530
+
+    Updates the HTML file
+
+commit 61b33a8a8755bba3c552f1f913a1c6d31805f6c6
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Thu May 28 08:41:33 2015 +0530
+
+    Adds new file
+
+commit 0fbc379d40c271b572af42628781a735f478b466
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Thu May 28 08:38:57 2015 +0530
+
+    Adds new file
+
+commit 468557f98cfe765a4bf7d6713172d5d16e5f6b54
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Thu May 28 08:13:24 2015 +0530
+
+    Adds new Contentt Folder
+
+commit 9753b729131a17c6e831817297b155899ebb9189
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Wed May 27 08:43:29 2015 +0530
+
+    Adds updated guide file
+
+commit 2df056bbfbaa1c83384617c999a7d53674244fae
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Wed May 27 08:36:33 2015 +0530
+
+    Adds updated instructions to the Guide file
+
+commit 3bcb83416d2455f8731c67493b2da9685f03f6d2
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue May 26 08:59:21 2015 +0530
+
+    Updates Guide file
+
+commit 9f6c24152046f83a9a563786359c5185dc5d66a1
+Author: ajaysajwan <ajay.sajwan@gmail.com>
+Date:   Tue May 26 08:53:08 2015 +0530
+
+    Adds new File for initial guidance with Git commands
