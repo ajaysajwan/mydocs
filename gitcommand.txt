@@ -1,15 +1,21 @@
 http://gitref.org/remotes/
 
+DAY - 1
+
 git init
 git status
 git add .
 git commit -m "Comment"
 git status -s
 git commit -a -m "Adds new message"
+git commmand --help
 
 -a should be first, so that it can add the file to staging first. And then use -m to commit to repo
 
 condole.log('test')
+
+
+DAY - 2
 
 git gui
 
@@ -23,7 +29,7 @@ All the unstaged file will be shown on the Unstaged Changes window.
 - to undo changes from working directory
 - to switch branch
 
-git checkout -- Filename
+git checkout Filename - To undo changes from the working directory
 
 use wildcard characters
 
