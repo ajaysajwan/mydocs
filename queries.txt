@@ -1,4 +1,8 @@
 1. How to checkout a complete Directory? How to revert a newly created Directory?
    - git checkout OR git reset HEAD OR something else
-2. How to save files to a new branch?
-3. How to untrack a folder and its content?
+2. How to save files to a new branch? - Done
+3. How to untrack a folder and its content? - Done
+If the ccontents off the folder are deleted, then the folder is cconsidered to be deleted.
+
+4. If there are no files inside a folder, then it does not have anyy significanc. Please confirm
+
