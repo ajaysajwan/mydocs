@@ -102,3 +102,4 @@ git mv file1.txt file2.txt
 Remove the file -
 git rm backup.txt
 
+Npm install
