@@ -102,4 +102,27 @@ git mv file1.txt file2.txt
 Remove the file -
 git rm backup.txt
 
-Npm install
+GRUNT ------
+npm install grunt-cli -g :: To install the gruntt-cli at global level
+npm init - To start creating a new Package.json
+npm install grunt --save-dev :  To install the Grunt file as a dev dependency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
