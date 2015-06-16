@@ -107,22 +107,28 @@ npm install grunt-cli -g :: To install the gruntt-cli at global level
 npm init - To start creating a new Package.json
 npm install grunt --save-dev :  To install the Grunt file as a dev dependency
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+************ Sample Grunt file *************
+'use Strict'
+module.exports = function(grunt){
+	grunt.log.writeln('Running Grunt Task...')
+	grunt.registerTask('hello',function(fName){
+		console.log(arguments.length);
+		console.log('Hello '+fName);
+		console.log('********** '+this.name);
+	});
+	grunt.registerTask('callme', function(){
+		console.log('Callme.....')
+	});
+	grunt.registerTask('Google', function(){
+		console.log('Calling Google.....');
+		grunt.registerTask('cybage', function(){
+			console.log('cybage cybage cybage');
+		});
+	});
+	//grunt.registerTask('default',['hello:Welcome Singh','callme', 'Google']);
+	grunt.registerTask('website',['Google', 'hello:WOW']);
+	/*function testme(){
+		console.log('test task runner');
+	}
+	grunt.registerTask('test',['testme']);*/
+}
